@@ -1,0 +1,6 @@
+Three Tier architecture infrastructure:
+Benefits fo Three tier architrecture-deploy high availability, fault-tolerance, secure, and scalable three-tier architecture infrastructure, utilizing AWS resources on the AWS cloud platform.
+
+Services Required to deploy it- Ec2, VPC, IG, NAT, SG, ELB, Subnets, Auto Scaling group.
+
+-git clone https://github.com/aws-samples/aws-three-tier-web-architecture-workshop.git
